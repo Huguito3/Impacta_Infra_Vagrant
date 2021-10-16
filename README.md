@@ -8,6 +8,6 @@ Subir uma máquina virtual, usando Vagrant, com MySQL instalado e que esteja ace
 ```bash
 vagrant up
 vagrant ssh
-sudo mysql -u root / mysql -u root -p
+sudo mysql -u root or mysql -u root -p
 
 ```
